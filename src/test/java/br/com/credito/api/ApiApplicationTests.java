@@ -1,4 +1,4 @@
-package br.com.seguro.auto.api;
+package br.com.credito.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

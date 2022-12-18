@@ -20,7 +20,7 @@ import br.com.credito.api.model.dto.ContrataEmprestimoDTO;
 
 @Entity
 @EntityListeners(AuditingEntityListener.class)
-@Table(name = "tb_apolice")
+@Table(name = "tb_emprestimo")
 public class Emprestimo {
 
     public Emprestimo() {

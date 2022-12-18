@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 import br.com.credito.api.model.entity.Emprestimo;
 
 public class EmprestimoDTO {
-
     public EmprestimoDTO(Emprestimo emprestimo) {
         this.id = emprestimo.getId();
         this.clienteId = emprestimo.getClienteId();
